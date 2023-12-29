@@ -7,7 +7,8 @@ Developed an updated miniature version of Hextorq(Six-legged Robot), a product o
 
 ![Hextorq](https://github.com/pradnyas5/Miniature-Hexapod/assets/93536494/4e824dca-b79a-40ac-9f01-e9be0f2aee20)
 
-*A previous version designed by **[Technodune Pvt. Ltd.](http://technodune.com/)**.*
+*Previous version, "Hextorq" designed by **[Technodune Pvt. Ltd.](http://technodune.com/)**.*
 
+To develop the robot, the initial stage consisted of choosing an appropriate Servo Motor for effective locomotion. The "ServoTestCode.ino" file consists of the base code used to analyze the performance of various servo motors. 
 
-PLEASE FIND THE TECHNICAL DETAILS OF THE PROJECT IN THE FILE NAMED, "MiniHexProjectReport.pdf" PROVIDED ABOVE.
+To know more, PLEASE FIND THE TECHNICAL DETAILS OF THE PROJECT IN THE FILE NAMED, "MiniHexProjectReport.pdf" PROVIDED ABOVE.
