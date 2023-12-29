@@ -9,14 +9,5 @@ Developed an updated miniature version of Hextorq(Six-legged Robot), a product o
 
 *A previous version designed by **[Technodune Pvt. Ltd.](http://technodune.com/)**.*
 
-## Servo Test Setup ##
 
-One of the highlights of this project was the selection of an optimal servo to control the robot's kinematics. The following test setup was used to test servos and compare their performance:    
-
-![Picture1](https://github.com/pradnyas5/Miniature-Hexapod/assets/93536494/d0315091-43de-47fd-a84d-e47ba0828ff9)
-
-ServoTest.ino contains the test code executed to record the results.
-
-![Picture2](https://github.com/pradnyas5/Miniature-Hexapod/assets/93536494/9a813653-1e6a-41b0-9ad2-6363316ec4d8)
-
-*Block Diagram of Servo-Test Setup*
+PLEASE FIND THE TECHNICAL DETAILS OF THE PROJECT IN THE FILE NAMED, "MiniHexProjectReport.pdf" PROVIDED ABOVE.
